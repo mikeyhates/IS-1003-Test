@@ -1,1 +1,2 @@
-time is now
+cool
+
